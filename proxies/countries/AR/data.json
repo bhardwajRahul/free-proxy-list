@@ -1,9 +1,35 @@
 [
   {
-    "proxy": "socks4://190.2.104.201:4153",
-    "protocol": "socks4",
-    "ip": "190.2.104.201",
-    "port": 4153,
+    "proxy": "socks5://62.60.131.203:42450",
+    "protocol": "socks5",
+    "ip": "62.60.131.203",
+    "port": 42450,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "AR",
+      "city": "Unknown"
+    }
+  },
+  {
+    "proxy": "socks5://36.255.98.169:4024",
+    "protocol": "socks5",
+    "ip": "36.255.98.169",
+    "port": 4024,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "AR",
+      "city": "Unknown"
+    }
+  },
+  {
+    "proxy": "socks5://62.60.131.179:4181",
+    "protocol": "socks5",
+    "ip": "62.60.131.179",
+    "port": 4181,
     "https": false,
     "anonymity": "transparent",
     "score": 1,
@@ -117,6 +143,19 @@
     }
   },
   {
+    "proxy": "http://181.104.70.198:3128",
+    "protocol": "http",
+    "ip": "181.104.70.198",
+    "port": 3128,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "AR",
+      "city": "Unknown"
+    }
+  },
+  {
     "proxy": "http://187.102.219.32:999",
     "protocol": "http",
     "ip": "187.102.219.32",
@@ -182,6 +221,45 @@
     }
   },
   {
+    "proxy": "http://45.65.225.17:999",
+    "protocol": "http",
+    "ip": "45.65.225.17",
+    "port": 999,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "AR",
+      "city": "Unknown"
+    }
+  },
+  {
+    "proxy": "http://181.209.82.205:999",
+    "protocol": "http",
+    "ip": "181.209.82.205",
+    "port": 999,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "AR",
+      "city": "Unknown"
+    }
+  },
+  {
+    "proxy": "http://186.65.109.21:81",
+    "protocol": "http",
+    "ip": "186.65.109.21",
+    "port": 81,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "AR",
+      "city": "Unknown"
+    }
+  },
+  {
     "proxy": "http://190.188.131.87:8080",
     "protocol": "http",
     "ip": "190.188.131.87",
@@ -231,19 +309,6 @@
     "geolocation": {
       "country": "AR",
       "city": "Bell Ville"
-    }
-  },
-  {
-    "proxy": "http://209.13.186.20:80",
-    "protocol": "http",
-    "ip": "209.13.186.20",
-    "port": 80,
-    "https": false,
-    "anonymity": "transparent",
-    "score": 1,
-    "geolocation": {
-      "country": "AR",
-      "city": "Buenos Aires"
     }
   }
 ]
