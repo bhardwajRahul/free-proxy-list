@@ -1,9 +1,9 @@
 [
   {
-    "proxy": "http://151.242.116.245:80",
+    "proxy": "http://185.83.182.197:8080",
     "protocol": "http",
-    "ip": "151.242.116.245",
-    "port": 80,
+    "ip": "185.83.182.197",
+    "port": 8080,
     "https": false,
     "anonymity": "transparent",
     "score": 1,
@@ -13,16 +13,16 @@
     }
   },
   {
-    "proxy": "http://47.91.104.88:3128",
+    "proxy": "http://72.10.160.90:12041",
     "protocol": "http",
-    "ip": "47.91.104.88",
-    "port": 3128,
+    "ip": "72.10.160.90",
+    "port": 12041,
     "https": false,
-    "anonymity": "elite",
+    "anonymity": "transparent",
     "score": 1,
     "geolocation": {
       "country": "AE",
-      "city": "Dubai"
+      "city": "Unknown"
     }
   }
 ]
