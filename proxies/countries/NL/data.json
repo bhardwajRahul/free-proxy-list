@@ -1,5 +1,18 @@
 [
   {
+    "proxy": "socks5://5.255.113.177:1080",
+    "protocol": "socks5",
+    "ip": "5.255.113.177",
+    "port": 1080,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "NL",
+      "city": "Dronten"
+    }
+  },
+  {
     "proxy": "socks5://195.35.113.29:1080",
     "protocol": "socks5",
     "ip": "195.35.113.29",
@@ -10,6 +23,162 @@
     "geolocation": {
       "country": "NL",
       "city": "Amsterdam"
+    }
+  },
+  {
+    "proxy": "http://45.89.220.78:80",
+    "protocol": "http",
+    "ip": "45.89.220.78",
+    "port": 80,
+    "https": false,
+    "anonymity": "elite",
+    "score": 1,
+    "geolocation": {
+      "country": "NL",
+      "city": "Amsterdam"
+    }
+  },
+  {
+    "proxy": "http://45.131.5.148:80",
+    "protocol": "http",
+    "ip": "45.131.5.148",
+    "port": 80,
+    "https": false,
+    "anonymity": "elite",
+    "score": 1,
+    "geolocation": {
+      "country": "NL",
+      "city": ""
+    }
+  },
+  {
+    "proxy": "http://45.131.4.181:80",
+    "protocol": "http",
+    "ip": "45.131.4.181",
+    "port": 80,
+    "https": false,
+    "anonymity": "elite",
+    "score": 1,
+    "geolocation": {
+      "country": "NL",
+      "city": ""
+    }
+  },
+  {
+    "proxy": "http://45.131.6.8:80",
+    "protocol": "http",
+    "ip": "45.131.6.8",
+    "port": 80,
+    "https": false,
+    "anonymity": "elite",
+    "score": 1,
+    "geolocation": {
+      "country": "NL",
+      "city": ""
+    }
+  },
+  {
+    "proxy": "http://45.131.5.251:80",
+    "protocol": "http",
+    "ip": "45.131.5.251",
+    "port": 80,
+    "https": false,
+    "anonymity": "elite",
+    "score": 1,
+    "geolocation": {
+      "country": "NL",
+      "city": ""
+    }
+  },
+  {
+    "proxy": "http://45.131.5.146:80",
+    "protocol": "http",
+    "ip": "45.131.5.146",
+    "port": 80,
+    "https": false,
+    "anonymity": "elite",
+    "score": 1,
+    "geolocation": {
+      "country": "NL",
+      "city": ""
+    }
+  },
+  {
+    "proxy": "http://45.131.5.15:80",
+    "protocol": "http",
+    "ip": "45.131.5.15",
+    "port": 80,
+    "https": false,
+    "anonymity": "elite",
+    "score": 1,
+    "geolocation": {
+      "country": "NL",
+      "city": ""
+    }
+  },
+  {
+    "proxy": "http://188.114.96.66:80",
+    "protocol": "http",
+    "ip": "188.114.96.66",
+    "port": 80,
+    "https": false,
+    "anonymity": "elite",
+    "score": 1,
+    "geolocation": {
+      "country": "NL",
+      "city": "Amsterdam"
+    }
+  },
+  {
+    "proxy": "http://45.131.6.105:80",
+    "protocol": "http",
+    "ip": "45.131.6.105",
+    "port": 80,
+    "https": false,
+    "anonymity": "elite",
+    "score": 1,
+    "geolocation": {
+      "country": "NL",
+      "city": ""
+    }
+  },
+  {
+    "proxy": "http://45.131.5.241:80",
+    "protocol": "http",
+    "ip": "45.131.5.241",
+    "port": 80,
+    "https": false,
+    "anonymity": "elite",
+    "score": 1,
+    "geolocation": {
+      "country": "NL",
+      "city": ""
+    }
+  },
+  {
+    "proxy": "http://45.131.4.230:80",
+    "protocol": "http",
+    "ip": "45.131.4.230",
+    "port": 80,
+    "https": false,
+    "anonymity": "elite",
+    "score": 1,
+    "geolocation": {
+      "country": "NL",
+      "city": ""
+    }
+  },
+  {
+    "proxy": "http://45.131.6.64:80",
+    "protocol": "http",
+    "ip": "45.131.6.64",
+    "port": 80,
+    "https": false,
+    "anonymity": "elite",
+    "score": 1,
+    "geolocation": {
+      "country": "NL",
+      "city": ""
     }
   },
   {
@@ -195,19 +364,6 @@
     }
   },
   {
-    "proxy": "socks5://5.255.113.177:1080",
-    "protocol": "socks5",
-    "ip": "5.255.113.177",
-    "port": 1080,
-    "https": false,
-    "anonymity": "transparent",
-    "score": 1,
-    "geolocation": {
-      "country": "NL",
-      "city": "Dronten"
-    }
-  },
-  {
     "proxy": "http://45.131.7.92:80",
     "protocol": "http",
     "ip": "45.131.7.92",
@@ -257,45 +413,6 @@
     "geolocation": {
       "country": "NL",
       "city": ""
-    }
-  },
-  {
-    "proxy": "http://45.89.220.78:80",
-    "protocol": "http",
-    "ip": "45.89.220.78",
-    "port": 80,
-    "https": false,
-    "anonymity": "elite",
-    "score": 1,
-    "geolocation": {
-      "country": "NL",
-      "city": "Amsterdam"
-    }
-  },
-  {
-    "proxy": "http://45.131.5.15:80",
-    "protocol": "http",
-    "ip": "45.131.5.15",
-    "port": 80,
-    "https": false,
-    "anonymity": "elite",
-    "score": 1,
-    "geolocation": {
-      "country": "NL",
-      "city": ""
-    }
-  },
-  {
-    "proxy": "http://160.153.0.9:80",
-    "protocol": "http",
-    "ip": "160.153.0.9",
-    "port": 80,
-    "https": false,
-    "anonymity": "elite",
-    "score": 1,
-    "geolocation": {
-      "country": "NL",
-      "city": "Amsterdam"
     }
   }
 ]
