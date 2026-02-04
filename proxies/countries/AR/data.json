@@ -65,19 +65,6 @@
     }
   },
   {
-    "proxy": "http://45.167.20.31:999",
-    "protocol": "http",
-    "ip": "45.167.20.31",
-    "port": 999,
-    "https": false,
-    "anonymity": "transparent",
-    "score": 1,
-    "geolocation": {
-      "country": "AR",
-      "city": "Unknown"
-    }
-  },
-  {
     "proxy": "http://187.102.219.64:999",
     "protocol": "http",
     "ip": "187.102.219.64",
@@ -91,10 +78,23 @@
     }
   },
   {
-    "proxy": "http://181.13.20.102:999",
+    "proxy": "http://186.65.109.21:81",
     "protocol": "http",
-    "ip": "181.13.20.102",
-    "port": 999,
+    "ip": "186.65.109.21",
+    "port": 81,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "AR",
+      "city": "Unknown"
+    }
+  },
+  {
+    "proxy": "http://131.0.234.54:55555",
+    "protocol": "http",
+    "ip": "131.0.234.54",
+    "port": 55555,
     "https": false,
     "anonymity": "transparent",
     "score": 1,
@@ -117,49 +117,10 @@
     }
   },
   {
-    "proxy": "http://181.209.125.189:999",
+    "proxy": "http://186.18.198.45:8080",
     "protocol": "http",
-    "ip": "181.209.125.189",
-    "port": 999,
-    "https": false,
-    "anonymity": "transparent",
-    "score": 1,
-    "geolocation": {
-      "country": "AR",
-      "city": "Unknown"
-    }
-  },
-  {
-    "proxy": "http://181.209.96.156:999",
-    "protocol": "http",
-    "ip": "181.209.96.156",
-    "port": 999,
-    "https": false,
-    "anonymity": "transparent",
-    "score": 1,
-    "geolocation": {
-      "country": "AR",
-      "city": "Unknown"
-    }
-  },
-  {
-    "proxy": "http://67.43.236.18:28283",
-    "protocol": "http",
-    "ip": "67.43.236.18",
-    "port": 28283,
-    "https": false,
-    "anonymity": "transparent",
-    "score": 1,
-    "geolocation": {
-      "country": "AR",
-      "city": "Unknown"
-    }
-  },
-  {
-    "proxy": "http://72.10.160.90:15805",
-    "protocol": "http",
-    "ip": "72.10.160.90",
-    "port": 15805,
+    "ip": "186.18.198.45",
+    "port": 8080,
     "https": false,
     "anonymity": "transparent",
     "score": 1,
