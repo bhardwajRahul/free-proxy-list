@@ -52,10 +52,23 @@
     }
   },
   {
-    "proxy": "http://82.200.237.11:8080",
+    "proxy": "http://91.185.13.251:81",
     "protocol": "http",
-    "ip": "82.200.237.11",
-    "port": 8080,
+    "ip": "91.185.13.251",
+    "port": 81,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "KZ",
+      "city": "Unknown"
+    }
+  },
+  {
+    "proxy": "http://188.130.160.209:80",
+    "protocol": "http",
+    "ip": "188.130.160.209",
+    "port": 80,
     "https": false,
     "anonymity": "transparent",
     "score": 1,
@@ -71,6 +84,19 @@
     "port": 8081,
     "https": false,
     "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "KZ",
+      "city": ""
+    }
+  },
+  {
+    "proxy": "http://31.43.179.38:80",
+    "protocol": "http",
+    "ip": "31.43.179.38",
+    "port": 80,
+    "https": false,
+    "anonymity": "elite",
     "score": 1,
     "geolocation": {
       "country": "KZ",
@@ -133,58 +159,6 @@
     "proxy": "http://31.43.179.192:80",
     "protocol": "http",
     "ip": "31.43.179.192",
-    "port": 80,
-    "https": false,
-    "anonymity": "elite",
-    "score": 1,
-    "geolocation": {
-      "country": "KZ",
-      "city": ""
-    }
-  },
-  {
-    "proxy": "http://31.43.179.167:80",
-    "protocol": "http",
-    "ip": "31.43.179.167",
-    "port": 80,
-    "https": false,
-    "anonymity": "elite",
-    "score": 1,
-    "geolocation": {
-      "country": "KZ",
-      "city": ""
-    }
-  },
-  {
-    "proxy": "http://31.43.179.205:80",
-    "protocol": "http",
-    "ip": "31.43.179.205",
-    "port": 80,
-    "https": false,
-    "anonymity": "elite",
-    "score": 1,
-    "geolocation": {
-      "country": "KZ",
-      "city": ""
-    }
-  },
-  {
-    "proxy": "http://31.43.179.38:80",
-    "protocol": "http",
-    "ip": "31.43.179.38",
-    "port": 80,
-    "https": false,
-    "anonymity": "elite",
-    "score": 1,
-    "geolocation": {
-      "country": "KZ",
-      "city": ""
-    }
-  },
-  {
-    "proxy": "http://31.43.179.3:80",
-    "protocol": "http",
-    "ip": "31.43.179.3",
     "port": 80,
     "https": false,
     "anonymity": "elite",
