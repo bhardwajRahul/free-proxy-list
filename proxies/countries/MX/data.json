@@ -13,19 +13,6 @@
     }
   },
   {
-    "proxy": "http://201.140.185.41:443",
-    "protocol": "http",
-    "ip": "201.140.185.41",
-    "port": 443,
-    "https": true,
-    "anonymity": "transparent",
-    "score": 1,
-    "geolocation": {
-      "country": "MX",
-      "city": "Unknown"
-    }
-  },
-  {
     "proxy": "http://38.194.246.34:999",
     "protocol": "http",
     "ip": "38.194.246.34",
@@ -78,9 +65,9 @@
     }
   },
   {
-    "proxy": "http://38.224.97.12:999",
+    "proxy": "http://45.189.252.240:999",
     "protocol": "http",
-    "ip": "38.224.97.12",
+    "ip": "45.189.252.240",
     "port": 999,
     "https": false,
     "anonymity": "transparent",
@@ -95,19 +82,6 @@
     "protocol": "http",
     "ip": "187.251.130.135",
     "port": 8080,
-    "https": false,
-    "anonymity": "transparent",
-    "score": 1,
-    "geolocation": {
-      "country": "MX",
-      "city": "Unknown"
-    }
-  },
-  {
-    "proxy": "http://201.159.102.77:8081",
-    "protocol": "http",
-    "ip": "201.159.102.77",
-    "port": 8081,
     "https": false,
     "anonymity": "transparent",
     "score": 1,
@@ -133,19 +107,6 @@
     "proxy": "http://205.164.192.115:999",
     "protocol": "http",
     "ip": "205.164.192.115",
-    "port": 999,
-    "https": false,
-    "anonymity": "transparent",
-    "score": 1,
-    "geolocation": {
-      "country": "MX",
-      "city": "Unknown"
-    }
-  },
-  {
-    "proxy": "http://38.49.148.147:999",
-    "protocol": "http",
-    "ip": "38.49.148.147",
     "port": 999,
     "https": false,
     "anonymity": "transparent",
@@ -182,10 +143,23 @@
     }
   },
   {
-    "proxy": "http://45.175.232.75:999",
+    "proxy": "http://45.174.174.118:999",
     "protocol": "http",
-    "ip": "45.175.232.75",
+    "ip": "45.174.174.118",
     "port": 999,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "MX",
+      "city": "Unknown"
+    }
+  },
+  {
+    "proxy": "http://177.241.119.191:8080",
+    "protocol": "http",
+    "ip": "177.241.119.191",
+    "port": 8080,
     "https": false,
     "anonymity": "transparent",
     "score": 1,
