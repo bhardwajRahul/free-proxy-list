@@ -1,5 +1,18 @@
 [
   {
+    "proxy": "socks4://43.153.131.83:16923",
+    "protocol": "socks4",
+    "ip": "43.153.131.83",
+    "port": 16923,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "JP",
+      "city": "Unknown"
+    }
+  },
+  {
     "proxy": "socks4://34.104.152.31:3128",
     "protocol": "socks4",
     "ip": "34.104.152.31",
@@ -91,32 +104,6 @@
     }
   },
   {
-    "proxy": "http://37.120.210.146:9443",
-    "protocol": "http",
-    "ip": "37.120.210.146",
-    "port": 9443,
-    "https": true,
-    "anonymity": "transparent",
-    "score": 1,
-    "geolocation": {
-      "country": "JP",
-      "city": "Unknown"
-    }
-  },
-  {
-    "proxy": "http://37.120.210.66:9443",
-    "protocol": "http",
-    "ip": "37.120.210.66",
-    "port": 9443,
-    "https": true,
-    "anonymity": "transparent",
-    "score": 1,
-    "geolocation": {
-      "country": "JP",
-      "city": "Unknown"
-    }
-  },
-  {
     "proxy": "http://20.78.213.56:443",
     "protocol": "http",
     "ip": "20.78.213.56",
@@ -134,19 +121,6 @@
     "protocol": "http",
     "ip": "47.243.181.85",
     "port": 41400,
-    "https": true,
-    "anonymity": "transparent",
-    "score": 1,
-    "geolocation": {
-      "country": "JP",
-      "city": "Unknown"
-    }
-  },
-  {
-    "proxy": "http://47.243.181.85:41410",
-    "protocol": "http",
-    "ip": "47.243.181.85",
-    "port": 41410,
     "https": true,
     "anonymity": "transparent",
     "score": 1,
@@ -273,19 +247,6 @@
     }
   },
   {
-    "proxy": "http://140.227.61.201:3128",
-    "protocol": "http",
-    "ip": "140.227.61.201",
-    "port": 3128,
-    "https": false,
-    "anonymity": "transparent",
-    "score": 1,
-    "geolocation": {
-      "country": "JP",
-      "city": "Unknown"
-    }
-  },
-  {
     "proxy": "http://74.176.195.135:80",
     "protocol": "http",
     "ip": "74.176.195.135",
@@ -325,10 +286,10 @@
     }
   },
   {
-    "proxy": "http://143.189.3.198:8080",
+    "proxy": "http://43.153.182.11:7777",
     "protocol": "http",
-    "ip": "143.189.3.198",
-    "port": 8080,
+    "ip": "43.153.182.11",
+    "port": 7777,
     "https": false,
     "anonymity": "transparent",
     "score": 1,
