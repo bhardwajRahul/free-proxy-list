@@ -2301,23 +2301,10 @@
     }
   },
   {
-    "proxy": "http://185.128.240.2:3128",
+    "proxy": "http://89.238.200.81:80",
     "protocol": "http",
-    "ip": "185.128.240.2",
-    "port": 3128,
-    "https": false,
-    "anonymity": "elite",
-    "score": 1,
-    "geolocation": {
-      "country": "RO",
-      "city": "Drobeta-Turnu Severin"
-    }
-  },
-  {
-    "proxy": "http://89.38.230.18:3128",
-    "protocol": "http",
-    "ip": "89.38.230.18",
-    "port": 3128,
+    "ip": "89.238.200.81",
+    "port": 80,
     "https": false,
     "anonymity": "transparent",
     "score": 1,
@@ -2493,6 +2480,19 @@
     "geolocation": {
       "country": "RO",
       "city": ""
+    }
+  },
+  {
+    "proxy": "http://185.128.240.2:3128",
+    "protocol": "http",
+    "ip": "185.128.240.2",
+    "port": 3128,
+    "https": false,
+    "anonymity": "elite",
+    "score": 1,
+    "geolocation": {
+      "country": "RO",
+      "city": "Drobeta-Turnu Severin"
     }
   },
   {
