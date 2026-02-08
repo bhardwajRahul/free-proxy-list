@@ -1,9 +1,9 @@
 [
   {
-    "proxy": "socks4://190.228.33.44:1085",
+    "proxy": "socks4://179.40.18.34:5678",
     "protocol": "socks4",
-    "ip": "190.228.33.44",
-    "port": 1085,
+    "ip": "179.40.18.34",
+    "port": 5678,
     "https": false,
     "anonymity": "transparent",
     "score": 1,
@@ -65,10 +65,10 @@
     }
   },
   {
-    "proxy": "http://187.102.219.32:999",
+    "proxy": "http://152.169.106.145:8080",
     "protocol": "http",
-    "ip": "187.102.219.32",
-    "port": 999,
+    "ip": "152.169.106.145",
+    "port": 8080,
     "https": false,
     "anonymity": "transparent",
     "score": 1,
@@ -91,36 +91,10 @@
     }
   },
   {
-    "proxy": "http://187.102.219.64:999",
+    "proxy": "http://45.169.169.14:8085",
     "protocol": "http",
-    "ip": "187.102.219.64",
-    "port": 999,
-    "https": false,
-    "anonymity": "transparent",
-    "score": 1,
-    "geolocation": {
-      "country": "AR",
-      "city": "Unknown"
-    }
-  },
-  {
-    "proxy": "http://181.209.72.172:999",
-    "protocol": "http",
-    "ip": "181.209.72.172",
-    "port": 999,
-    "https": false,
-    "anonymity": "transparent",
-    "score": 1,
-    "geolocation": {
-      "country": "AR",
-      "city": "Unknown"
-    }
-  },
-  {
-    "proxy": "http://181.209.81.82:999",
-    "protocol": "http",
-    "ip": "181.209.81.82",
-    "port": 999,
+    "ip": "45.169.169.14",
+    "port": 8085,
     "https": false,
     "anonymity": "transparent",
     "score": 1,
@@ -156,6 +130,19 @@
     }
   },
   {
+    "proxy": "http://45.178.244.213:999",
+    "protocol": "http",
+    "ip": "45.178.244.213",
+    "port": 999,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "AR",
+      "city": "Unknown"
+    }
+  },
+  {
     "proxy": "http://167.249.52.218:999",
     "protocol": "http",
     "ip": "167.249.52.218",
@@ -169,10 +156,10 @@
     }
   },
   {
-    "proxy": "http://181.209.96.156:999",
+    "proxy": "http://72.10.160.90:8049",
     "protocol": "http",
-    "ip": "181.209.96.156",
-    "port": 999,
+    "ip": "72.10.160.90",
+    "port": 8049,
     "https": false,
     "anonymity": "transparent",
     "score": 1,
