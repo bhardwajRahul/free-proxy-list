@@ -39,9 +39,9 @@
     }
   },
   {
-    "proxy": "http://218.252.118.9:443",
+    "proxy": "http://218.252.100.222:443",
     "protocol": "http",
-    "ip": "218.252.118.9",
+    "ip": "218.252.100.222",
     "port": 443,
     "https": true,
     "anonymity": "transparent",
@@ -117,19 +117,6 @@
     }
   },
   {
-    "proxy": "http://47.243.92.199:3128",
-    "protocol": "http",
-    "ip": "47.243.92.199",
-    "port": 3128,
-    "https": false,
-    "anonymity": "elite",
-    "score": 1,
-    "geolocation": {
-      "country": "HK",
-      "city": "Hong Kong"
-    }
-  },
-  {
     "proxy": "http://8.217.234.200:443",
     "protocol": "http",
     "ip": "8.217.234.200",
@@ -169,6 +156,19 @@
     }
   },
   {
+    "proxy": "http://218.252.100.222:80",
+    "protocol": "http",
+    "ip": "218.252.100.222",
+    "port": 80,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "HK",
+      "city": "Unknown"
+    }
+  },
+  {
     "proxy": "http://103.253.43.144:80",
     "protocol": "http",
     "ip": "103.253.43.144",
@@ -179,6 +179,32 @@
     "geolocation": {
       "country": "HK",
       "city": ""
+    }
+  },
+  {
+    "proxy": "http://101.47.73.135:3128",
+    "protocol": "http",
+    "ip": "101.47.73.135",
+    "port": 3128,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "HK",
+      "city": "Unknown"
+    }
+  },
+  {
+    "proxy": "http://47.243.92.199:3128",
+    "protocol": "http",
+    "ip": "47.243.92.199",
+    "port": 3128,
+    "https": false,
+    "anonymity": "elite",
+    "score": 1,
+    "geolocation": {
+      "country": "HK",
+      "city": "Hong Kong"
     }
   }
 ]
