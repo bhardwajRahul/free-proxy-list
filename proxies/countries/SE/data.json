@@ -13,10 +13,10 @@
     }
   },
   {
-    "proxy": "http://192.3.20.150:3128",
-    "protocol": "http",
-    "ip": "192.3.20.150",
-    "port": 3128,
+    "proxy": "socks5://5.75.168.247:8053",
+    "protocol": "socks5",
+    "ip": "5.75.168.247",
+    "port": 8053,
     "https": false,
     "anonymity": "transparent",
     "score": 1,
