@@ -13,6 +13,19 @@
     }
   },
   {
+    "proxy": "socks5://47.238.246.116:1111",
+    "protocol": "socks5",
+    "ip": "47.238.246.116",
+    "port": 1111,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "HK",
+      "city": "Unknown"
+    }
+  },
+  {
     "proxy": "socks5://152.32.213.178:1080",
     "protocol": "socks5",
     "ip": "152.32.213.178",
@@ -65,10 +78,49 @@
     }
   },
   {
+    "proxy": "http://84.17.57.113:443",
+    "protocol": "http",
+    "ip": "84.17.57.113",
+    "port": 443,
+    "https": true,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "HK",
+      "city": "Unknown"
+    }
+  },
+  {
     "proxy": "http://47.240.86.21:3128",
     "protocol": "http",
     "ip": "47.240.86.21",
     "port": 3128,
+    "https": true,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "HK",
+      "city": "Unknown"
+    }
+  },
+  {
+    "proxy": "http://210.177.178.148:443",
+    "protocol": "http",
+    "ip": "210.177.178.148",
+    "port": 443,
+    "https": true,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "HK",
+      "city": "Unknown"
+    }
+  },
+  {
+    "proxy": "http://47.243.181.85:41487",
+    "protocol": "http",
+    "ip": "47.243.181.85",
+    "port": 41487,
     "https": true,
     "anonymity": "transparent",
     "score": 1,
@@ -117,10 +169,10 @@
     }
   },
   {
-    "proxy": "http://8.217.234.200:443",
+    "proxy": "http://218.252.192.228:80",
     "protocol": "http",
-    "ip": "8.217.234.200",
-    "port": 443,
+    "ip": "218.252.192.228",
+    "port": 80,
     "https": false,
     "anonymity": "transparent",
     "score": 1,
@@ -130,9 +182,9 @@
     }
   },
   {
-    "proxy": "http://34.96.155.107:3128",
+    "proxy": "http://101.47.73.135:3128",
     "protocol": "http",
-    "ip": "34.96.155.107",
+    "ip": "101.47.73.135",
     "port": 3128,
     "https": false,
     "anonymity": "transparent",
