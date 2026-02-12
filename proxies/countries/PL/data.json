@@ -1,15 +1,15 @@
 [
   {
-    "proxy": "socks4://193.243.154.146:4145",
+    "proxy": "socks4://83.168.101.27:5678",
     "protocol": "socks4",
-    "ip": "193.243.154.146",
-    "port": 4145,
+    "ip": "83.168.101.27",
+    "port": 5678,
     "https": false,
     "anonymity": "transparent",
     "score": 1,
     "geolocation": {
       "country": "PL",
-      "city": "Rzesz?w"
+      "city": "Unknown"
     }
   },
   {
@@ -26,10 +26,10 @@
     }
   },
   {
-    "proxy": "http://37.120.156.18:9443",
+    "proxy": "http://82.118.20.183:443",
     "protocol": "http",
-    "ip": "37.120.156.18",
-    "port": 9443,
+    "ip": "82.118.20.183",
+    "port": 443,
     "https": true,
     "anonymity": "transparent",
     "score": 1,
@@ -39,11 +39,11 @@
     }
   },
   {
-    "proxy": "http://82.118.20.183:443",
+    "proxy": "http://83.168.74.163:8080",
     "protocol": "http",
-    "ip": "82.118.20.183",
-    "port": 443,
-    "https": true,
+    "ip": "83.168.74.163",
+    "port": 8080,
+    "https": false,
     "anonymity": "transparent",
     "score": 1,
     "geolocation": {
@@ -78,10 +78,10 @@
     }
   },
   {
-    "proxy": "http://79.110.200.148:8081",
+    "proxy": "http://78.9.232.205:8080",
     "protocol": "http",
-    "ip": "79.110.200.148",
-    "port": 8081,
+    "ip": "78.9.232.205",
+    "port": 8080,
     "https": false,
     "anonymity": "transparent",
     "score": 1,
@@ -91,10 +91,10 @@
     }
   },
   {
-    "proxy": "http://84.205.28.220:8080",
+    "proxy": "http://79.110.200.148:8081",
     "protocol": "http",
-    "ip": "84.205.28.220",
-    "port": 8080,
+    "ip": "79.110.200.148",
+    "port": 8081,
     "https": false,
     "anonymity": "transparent",
     "score": 1,
@@ -117,19 +117,6 @@
     }
   },
   {
-    "proxy": "http://188.116.37.3:8090",
-    "protocol": "http",
-    "ip": "188.116.37.3",
-    "port": 8090,
-    "https": false,
-    "anonymity": "transparent",
-    "score": 1,
-    "geolocation": {
-      "country": "PL",
-      "city": "Unknown"
-    }
-  },
-  {
     "proxy": "http://79.110.202.131:8081",
     "protocol": "http",
     "ip": "79.110.202.131",
@@ -140,6 +127,19 @@
     "geolocation": {
       "country": "PL",
       "city": "Unknown"
+    }
+  },
+  {
+    "proxy": "socks4://193.243.154.146:4145",
+    "protocol": "socks4",
+    "ip": "193.243.154.146",
+    "port": 4145,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "PL",
+      "city": "Rzesz?w"
     }
   }
 ]
