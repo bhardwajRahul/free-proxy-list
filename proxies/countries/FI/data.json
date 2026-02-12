@@ -13,19 +13,6 @@
     }
   },
   {
-    "proxy": "socks5://46.8.64.199:1080",
-    "protocol": "socks5",
-    "ip": "46.8.64.199",
-    "port": 1080,
-    "https": false,
-    "anonymity": "transparent",
-    "score": 1,
-    "geolocation": {
-      "country": "FI",
-      "city": "Unknown"
-    }
-  },
-  {
     "proxy": "http://65.108.150.56:8443",
     "protocol": "http",
     "ip": "65.108.150.56",
@@ -101,6 +88,19 @@
     "geolocation": {
       "country": "FI",
       "city": "Unknown"
+    }
+  },
+  {
+    "proxy": "http://65.108.103.19:80",
+    "protocol": "http",
+    "ip": "65.108.103.19",
+    "port": 80,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "FI",
+      "city": "Helsinki"
     }
   }
 ]
