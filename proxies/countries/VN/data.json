@@ -26,19 +26,6 @@
     }
   },
   {
-    "proxy": "socks5://58.187.104.67:1054",
-    "protocol": "socks5",
-    "ip": "58.187.104.67",
-    "port": 1054,
-    "https": false,
-    "anonymity": "transparent",
-    "score": 1,
-    "geolocation": {
-      "country": "VN",
-      "city": "Unknown"
-    }
-  },
-  {
     "proxy": "socks5://58.187.104.67:1090",
     "protocol": "socks5",
     "ip": "58.187.104.67",
@@ -65,9 +52,22 @@
     }
   },
   {
-    "proxy": "socks5://113.179.84.135:1080",
+    "proxy": "socks5://171.229.251.15:20002",
     "protocol": "socks5",
-    "ip": "113.179.84.135",
+    "ip": "171.229.251.15",
+    "port": 20002,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "VN",
+      "city": "Unknown"
+    }
+  },
+  {
+    "proxy": "socks4://171.248.218.248:1080",
+    "protocol": "socks4",
+    "ip": "171.248.218.248",
     "port": 1080,
     "https": false,
     "anonymity": "transparent",
@@ -78,22 +78,9 @@
     }
   },
   {
-    "proxy": "socks4://58.187.104.67:1080",
+    "proxy": "socks4://115.74.156.2:1080",
     "protocol": "socks4",
-    "ip": "58.187.104.67",
-    "port": 1080,
-    "https": false,
-    "anonymity": "transparent",
-    "score": 1,
-    "geolocation": {
-      "country": "VN",
-      "city": "Unknown"
-    }
-  },
-  {
-    "proxy": "socks4://27.68.171.21:1080",
-    "protocol": "socks4",
-    "ip": "27.68.171.21",
+    "ip": "115.74.156.2",
     "port": 1080,
     "https": false,
     "anonymity": "transparent",
@@ -130,19 +117,6 @@
     }
   },
   {
-    "proxy": "http://123.58.199.232:8168",
-    "protocol": "http",
-    "ip": "123.58.199.232",
-    "port": 8168,
-    "https": false,
-    "anonymity": "transparent",
-    "score": 1,
-    "geolocation": {
-      "country": "VN",
-      "city": "Unknown"
-    }
-  },
-  {
     "proxy": "http://103.3.246.71:3128",
     "protocol": "http",
     "ip": "103.3.246.71",
@@ -156,10 +130,10 @@
     }
   },
   {
-    "proxy": "http://116.107.93.35:10014",
+    "proxy": "http://58.187.104.67:2113",
     "protocol": "http",
-    "ip": "116.107.93.35",
-    "port": 10014,
+    "ip": "58.187.104.67",
+    "port": 2113,
     "https": false,
     "anonymity": "transparent",
     "score": 1,
