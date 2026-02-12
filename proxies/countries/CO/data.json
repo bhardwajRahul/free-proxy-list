@@ -1,9 +1,9 @@
 [
   {
-    "proxy": "http://45.65.138.48:999",
-    "protocol": "http",
-    "ip": "45.65.138.48",
-    "port": 999,
+    "proxy": "socks4://181.129.182.138:5678",
+    "protocol": "socks4",
+    "ip": "181.129.182.138",
+    "port": 5678,
     "https": false,
     "anonymity": "transparent",
     "score": 1,
@@ -13,9 +13,9 @@
     }
   },
   {
-    "proxy": "http://45.65.137.218:999",
+    "proxy": "http://45.65.138.48:999",
     "protocol": "http",
-    "ip": "45.65.137.218",
+    "ip": "45.65.138.48",
     "port": 999,
     "https": false,
     "anonymity": "transparent",
@@ -52,9 +52,22 @@
     }
   },
   {
-    "proxy": "http://190.242.157.215:8080",
+    "proxy": "http://186.96.111.214:999",
     "protocol": "http",
-    "ip": "190.242.157.215",
+    "ip": "186.96.111.214",
+    "port": 999,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "CO",
+      "city": "Unknown"
+    }
+  },
+  {
+    "proxy": "http://181.48.39.89:8080",
+    "protocol": "http",
+    "ip": "181.48.39.89",
     "port": 8080,
     "https": false,
     "anonymity": "transparent",
@@ -65,10 +78,10 @@
     }
   },
   {
-    "proxy": "http://181.174.231.247:8082",
+    "proxy": "http://200.29.232.230:8080",
     "protocol": "http",
-    "ip": "181.174.231.247",
-    "port": 8082,
+    "ip": "200.29.232.230",
+    "port": 8080,
     "https": false,
     "anonymity": "transparent",
     "score": 1,
@@ -78,9 +91,48 @@
     }
   },
   {
-    "proxy": "http://181.204.190.236:999",
+    "proxy": "http://170.239.205.74:8080",
     "protocol": "http",
-    "ip": "181.204.190.236",
+    "ip": "170.239.205.74",
+    "port": 8080,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "CO",
+      "city": "Unknown"
+    }
+  },
+  {
+    "proxy": "http://190.60.61.42:8080",
+    "protocol": "http",
+    "ip": "190.60.61.42",
+    "port": 8080,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "CO",
+      "city": "Unknown"
+    }
+  },
+  {
+    "proxy": "http://181.204.113.253:11211",
+    "protocol": "http",
+    "ip": "181.204.113.253",
+    "port": 11211,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "CO",
+      "city": "Unknown"
+    }
+  },
+  {
+    "proxy": "http://38.199.71.84:999",
+    "protocol": "http",
+    "ip": "38.199.71.84",
     "port": 999,
     "https": false,
     "anonymity": "transparent",
@@ -91,9 +143,9 @@
     }
   },
   {
-    "proxy": "http://190.109.6.114:999",
+    "proxy": "http://207.230.8.66:999",
     "protocol": "http",
-    "ip": "190.109.6.114",
+    "ip": "207.230.8.66",
     "port": 999,
     "https": false,
     "anonymity": "transparent",
@@ -104,9 +156,9 @@
     }
   },
   {
-    "proxy": "http://38.199.68.142:999",
+    "proxy": "http://187.102.195.55:999",
     "protocol": "http",
-    "ip": "38.199.68.142",
+    "ip": "187.102.195.55",
     "port": 999,
     "https": false,
     "anonymity": "transparent",
@@ -117,9 +169,9 @@
     }
   },
   {
-    "proxy": "http://181.225.96.137:999",
+    "proxy": "http://38.211.76.201:999",
     "protocol": "http",
-    "ip": "181.225.96.137",
+    "ip": "38.211.76.201",
     "port": 999,
     "https": false,
     "anonymity": "transparent",
@@ -130,9 +182,9 @@
     }
   },
   {
-    "proxy": "http://190.60.56.226:999",
+    "proxy": "http://45.167.124.248:999",
     "protocol": "http",
-    "ip": "190.60.56.226",
+    "ip": "45.167.124.248",
     "port": 999,
     "https": false,
     "anonymity": "transparent",
@@ -143,9 +195,9 @@
     }
   },
   {
-    "proxy": "http://38.224.21.1:999",
+    "proxy": "http://170.239.205.197:999",
     "protocol": "http",
-    "ip": "38.224.21.1",
+    "ip": "170.239.205.197",
     "port": 999,
     "https": false,
     "anonymity": "transparent",
@@ -156,9 +208,22 @@
     }
   },
   {
-    "proxy": "http://207.230.8.75:999",
+    "proxy": "http://24.152.58.154:999",
     "protocol": "http",
-    "ip": "207.230.8.75",
+    "ip": "24.152.58.154",
+    "port": 999,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "CO",
+      "city": "Unknown"
+    }
+  },
+  {
+    "proxy": "http://209.14.119.68:999",
+    "protocol": "http",
+    "ip": "209.14.119.68",
     "port": 999,
     "https": false,
     "anonymity": "transparent",
