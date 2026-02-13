@@ -1,18 +1,5 @@
 [
   {
-    "proxy": "http://89.111.26.249:443",
-    "protocol": "http",
-    "ip": "89.111.26.249",
-    "port": 443,
-    "https": true,
-    "anonymity": "transparent",
-    "score": 1,
-    "geolocation": {
-      "country": "LV",
-      "city": "Unknown"
-    }
-  },
-  {
     "proxy": "http://89.111.28.77:443",
     "protocol": "http",
     "ip": "89.111.28.77",
@@ -29,6 +16,19 @@
     "proxy": "http://89.111.26.250:443",
     "protocol": "http",
     "ip": "89.111.26.250",
+    "port": 443,
+    "https": true,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "LV",
+      "city": "Unknown"
+    }
+  },
+  {
+    "proxy": "http://89.111.28.83:443",
+    "protocol": "http",
+    "ip": "89.111.28.83",
     "port": 443,
     "https": true,
     "anonymity": "transparent",
@@ -416,6 +416,19 @@
     }
   },
   {
+    "proxy": "http://37.203.37.84:443",
+    "protocol": "http",
+    "ip": "37.203.37.84",
+    "port": 443,
+    "https": true,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "LV",
+      "city": "Unknown"
+    }
+  },
+  {
     "proxy": "http://37.203.37.99:443",
     "protocol": "http",
     "ip": "37.203.37.99",
@@ -668,19 +681,6 @@
     "ip": "89.111.27.219",
     "port": 443,
     "https": true,
-    "anonymity": "transparent",
-    "score": 1,
-    "geolocation": {
-      "country": "LV",
-      "city": "Unknown"
-    }
-  },
-  {
-    "proxy": "http://195.123.209.48:3128",
-    "protocol": "http",
-    "ip": "195.123.209.48",
-    "port": 3128,
-    "https": false,
     "anonymity": "transparent",
     "score": 1,
     "geolocation": {
