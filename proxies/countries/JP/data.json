@@ -1,9 +1,9 @@
 [
   {
-    "proxy": "socks5://34.85.74.166:1080",
+    "proxy": "socks5://123.54.197.24:21426",
     "protocol": "socks5",
-    "ip": "34.85.74.166",
-    "port": 1080,
+    "ip": "123.54.197.24",
+    "port": 21426,
     "https": false,
     "anonymity": "transparent",
     "score": 1,
@@ -30,19 +30,6 @@
     "protocol": "http",
     "ip": "103.37.111.253",
     "port": 10089,
-    "https": true,
-    "anonymity": "transparent",
-    "score": 1,
-    "geolocation": {
-      "country": "JP",
-      "city": "Unknown"
-    }
-  },
-  {
-    "proxy": "http://203.189.96.232:443",
-    "protocol": "http",
-    "ip": "203.189.96.232",
-    "port": 443,
     "https": true,
     "anonymity": "transparent",
     "score": 1,
@@ -91,6 +78,19 @@
     }
   },
   {
+    "proxy": "http://37.120.210.146:9443",
+    "protocol": "http",
+    "ip": "37.120.210.146",
+    "port": 9443,
+    "https": true,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "JP",
+      "city": "Unknown"
+    }
+  },
+  {
     "proxy": "http://20.78.213.56:443",
     "protocol": "http",
     "ip": "20.78.213.56",
@@ -108,6 +108,19 @@
     "protocol": "http",
     "ip": "47.243.181.85",
     "port": 41400,
+    "https": true,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "JP",
+      "city": "Unknown"
+    }
+  },
+  {
+    "proxy": "http://47.243.181.85:41393",
+    "protocol": "http",
+    "ip": "47.243.181.85",
+    "port": 41393,
     "https": true,
     "anonymity": "transparent",
     "score": 1,
@@ -231,6 +244,19 @@
     "geolocation": {
       "country": "JP",
       "city": "Tokyo"
+    }
+  },
+  {
+    "proxy": "http://94.177.131.12:3128",
+    "protocol": "http",
+    "ip": "94.177.131.12",
+    "port": 3128,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "JP",
+      "city": "Unknown"
     }
   },
   {
