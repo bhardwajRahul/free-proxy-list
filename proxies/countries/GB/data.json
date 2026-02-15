@@ -1,36 +1,10 @@
 [
   {
-    "proxy": "socks5://152.53.171.242:12462",
-    "protocol": "socks5",
-    "ip": "152.53.171.242",
-    "port": 12462,
-    "https": false,
-    "anonymity": "transparent",
-    "score": 1,
-    "geolocation": {
-      "country": "GB",
-      "city": "Unknown"
-    }
-  },
-  {
-    "proxy": "socks5://152.53.171.242:17323",
-    "protocol": "socks5",
-    "ip": "152.53.171.242",
-    "port": 17323,
-    "https": false,
-    "anonymity": "transparent",
-    "score": 1,
-    "geolocation": {
-      "country": "GB",
-      "city": "Unknown"
-    }
-  },
-  {
-    "proxy": "socks5://152.53.171.242:20498",
-    "protocol": "socks5",
-    "ip": "152.53.171.242",
-    "port": 20498,
-    "https": false,
+    "proxy": "http://193.36.118.210:443",
+    "protocol": "http",
+    "ip": "193.36.118.210",
+    "port": 443,
+    "https": true,
     "anonymity": "transparent",
     "score": 1,
     "geolocation": {
@@ -95,6 +69,19 @@
     "protocol": "http",
     "ip": "23.106.56.35",
     "port": 16927,
+    "https": true,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "GB",
+      "city": "Unknown"
+    }
+  },
+  {
+    "proxy": "http://84.17.50.193:9443",
+    "protocol": "http",
+    "ip": "84.17.50.193",
+    "port": 9443,
     "https": true,
     "anonymity": "transparent",
     "score": 1,
@@ -182,16 +169,16 @@
     }
   },
   {
-    "proxy": "http://37.27.180.250:2081",
+    "proxy": "http://139.162.200.213:80",
     "protocol": "http",
-    "ip": "37.27.180.250",
-    "port": 2081,
+    "ip": "139.162.200.213",
+    "port": 80,
     "https": false,
     "anonymity": "transparent",
     "score": 1,
     "geolocation": {
       "country": "GB",
-      "city": "Unknown"
+      "city": "London"
     }
   },
   {
@@ -244,19 +231,6 @@
     "geolocation": {
       "country": "GB",
       "city": "Slough"
-    }
-  },
-  {
-    "proxy": "http://139.162.200.213:80",
-    "protocol": "http",
-    "ip": "139.162.200.213",
-    "port": 80,
-    "https": false,
-    "anonymity": "transparent",
-    "score": 1,
-    "geolocation": {
-      "country": "GB",
-      "city": "London"
     }
   },
   {

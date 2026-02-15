@@ -26,10 +26,23 @@
     }
   },
   {
-    "proxy": "http://136.226.232.13:10230",
+    "proxy": "http://165.231.253.210:9443",
     "protocol": "http",
-    "ip": "136.226.232.13",
-    "port": 10230,
+    "ip": "165.231.253.210",
+    "port": 9443,
+    "https": true,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "IN",
+      "city": "Unknown"
+    }
+  },
+  {
+    "proxy": "http://165.231.253.242:9443",
+    "protocol": "http",
+    "ip": "165.231.253.242",
+    "port": 9443,
     "https": true,
     "anonymity": "transparent",
     "score": 1,
@@ -44,32 +57,6 @@
     "ip": "203.115.101.58",
     "port": 443,
     "https": true,
-    "anonymity": "transparent",
-    "score": 1,
-    "geolocation": {
-      "country": "IN",
-      "city": "Unknown"
-    }
-  },
-  {
-    "proxy": "http://165.225.124.33:11368",
-    "protocol": "http",
-    "ip": "165.225.124.33",
-    "port": 11368,
-    "https": true,
-    "anonymity": "transparent",
-    "score": 1,
-    "geolocation": {
-      "country": "IN",
-      "city": "Unknown"
-    }
-  },
-  {
-    "proxy": "http://103.148.39.50:82",
-    "protocol": "http",
-    "ip": "103.148.39.50",
-    "port": 82,
-    "https": false,
     "anonymity": "transparent",
     "score": 1,
     "geolocation": {
@@ -104,19 +91,6 @@
     }
   },
   {
-    "proxy": "http://103.105.176.232:8080",
-    "protocol": "http",
-    "ip": "103.105.176.232",
-    "port": 8080,
-    "https": false,
-    "anonymity": "transparent",
-    "score": 1,
-    "geolocation": {
-      "country": "IN",
-      "city": "Unknown"
-    }
-  },
-  {
     "proxy": "http://115.114.77.133:9090",
     "protocol": "http",
     "ip": "115.114.77.133",
@@ -134,6 +108,19 @@
     "protocol": "http",
     "ip": "167.71.231.8",
     "port": 3128,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "IN",
+      "city": "Unknown"
+    }
+  },
+  {
+    "proxy": "http://72.10.164.178:23087",
+    "protocol": "http",
+    "ip": "72.10.164.178",
+    "port": 23087,
     "https": false,
     "anonymity": "transparent",
     "score": 1,
