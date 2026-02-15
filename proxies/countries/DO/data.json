@@ -1,9 +1,22 @@
 [
   {
-    "proxy": "http://177.200.239.141:999",
+    "proxy": "http://38.191.161.178:999",
     "protocol": "http",
-    "ip": "177.200.239.141",
+    "ip": "38.191.161.178",
     "port": 999,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "DO",
+      "city": "Unknown"
+    }
+  },
+  {
+    "proxy": "http://67.43.228.254:9921",
+    "protocol": "http",
+    "ip": "67.43.228.254",
+    "port": 9921,
     "https": false,
     "anonymity": "transparent",
     "score": 1,
