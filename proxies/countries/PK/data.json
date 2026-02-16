@@ -1,9 +1,22 @@
 [
   {
-    "proxy": "http://43.248.13.30:39104",
+    "proxy": "http://103.155.62.141:8081",
     "protocol": "http",
-    "ip": "43.248.13.30",
-    "port": 39104,
+    "ip": "103.155.62.141",
+    "port": 8081,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "PK",
+      "city": "Unknown"
+    }
+  },
+  {
+    "proxy": "http://67.43.236.20:2263",
+    "protocol": "http",
+    "ip": "67.43.236.20",
+    "port": 2263,
     "https": false,
     "anonymity": "transparent",
     "score": 1,
