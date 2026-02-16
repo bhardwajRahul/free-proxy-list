@@ -13,19 +13,6 @@
     }
   },
   {
-    "proxy": "http://221.153.92.39:443",
-    "protocol": "http",
-    "ip": "221.153.92.39",
-    "port": 443,
-    "https": true,
-    "anonymity": "transparent",
-    "score": 1,
-    "geolocation": {
-      "country": "KR",
-      "city": "Unknown"
-    }
-  },
-  {
     "proxy": "http://211.250.42.219:443",
     "protocol": "http",
     "ip": "211.250.42.219",
@@ -36,19 +23,6 @@
     "geolocation": {
       "country": "KR",
       "city": "Unknown"
-    }
-  },
-  {
-    "proxy": "http://183.109.79.187:80",
-    "protocol": "http",
-    "ip": "183.109.79.187",
-    "port": 80,
-    "https": false,
-    "anonymity": "transparent",
-    "score": 1,
-    "geolocation": {
-      "country": "KR",
-      "city": "Yeongdeungpo-gu"
     }
   },
   {
@@ -91,16 +65,16 @@
     }
   },
   {
-    "proxy": "http://183.110.216.128:8090",
+    "proxy": "http://183.110.216.159:8090",
     "protocol": "http",
-    "ip": "183.110.216.128",
+    "ip": "183.110.216.159",
     "port": 8090,
     "https": false,
     "anonymity": "transparent",
     "score": 1,
     "geolocation": {
       "country": "KR",
-      "city": ""
+      "city": "Unknown"
     }
   },
   {
@@ -117,22 +91,9 @@
     }
   },
   {
-    "proxy": "http://121.177.104.201:3124",
+    "proxy": "http://119.194.72.67:80",
     "protocol": "http",
-    "ip": "121.177.104.201",
-    "port": 3124,
-    "https": false,
-    "anonymity": "transparent",
-    "score": 1,
-    "geolocation": {
-      "country": "KR",
-      "city": "Unknown"
-    }
-  },
-  {
-    "proxy": "http://219.249.37.107:80",
-    "protocol": "http",
-    "ip": "219.249.37.107",
+    "ip": "119.194.72.67",
     "port": 80,
     "https": false,
     "anonymity": "transparent",
@@ -169,16 +130,55 @@
     }
   },
   {
-    "proxy": "http://183.104.30.49:3016",
+    "proxy": "http://222.234.52.105:80",
     "protocol": "http",
-    "ip": "183.104.30.49",
-    "port": 3016,
+    "ip": "222.234.52.105",
+    "port": 80,
     "https": false,
     "anonymity": "transparent",
     "score": 1,
     "geolocation": {
       "country": "KR",
       "city": "Unknown"
+    }
+  },
+  {
+    "proxy": "http://121.168.58.119:3128",
+    "protocol": "http",
+    "ip": "121.168.58.119",
+    "port": 3128,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "KR",
+      "city": "Unknown"
+    }
+  },
+  {
+    "proxy": "http://222.107.27.7:8087",
+    "protocol": "http",
+    "ip": "222.107.27.7",
+    "port": 8087,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "KR",
+      "city": "Unknown"
+    }
+  },
+  {
+    "proxy": "http://183.110.216.128:8090",
+    "protocol": "http",
+    "ip": "183.110.216.128",
+    "port": 8090,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "KR",
+      "city": ""
     }
   },
   {
@@ -192,6 +192,19 @@
     "geolocation": {
       "country": "KR",
       "city": "Suwon"
+    }
+  },
+  {
+    "proxy": "http://183.109.79.187:80",
+    "protocol": "http",
+    "ip": "183.109.79.187",
+    "port": 80,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "KR",
+      "city": "Yeongdeungpo-gu"
     }
   }
 ]
