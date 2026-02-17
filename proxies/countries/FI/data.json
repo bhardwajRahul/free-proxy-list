@@ -104,10 +104,23 @@
     }
   },
   {
-    "proxy": "http://157.180.118.86:80",
+    "proxy": "http://94.159.112.138:3128",
     "protocol": "http",
-    "ip": "157.180.118.86",
-    "port": 80,
+    "ip": "94.159.112.138",
+    "port": 3128,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "FI",
+      "city": "Unknown"
+    }
+  },
+  {
+    "proxy": "http://94.159.112.138:3129",
+    "protocol": "http",
+    "ip": "94.159.112.138",
+    "port": 3129,
     "https": false,
     "anonymity": "transparent",
     "score": 1,
