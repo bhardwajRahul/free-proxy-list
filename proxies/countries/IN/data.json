@@ -1,18 +1,5 @@
 [
   {
-    "proxy": "socks4://64.227.131.240:1080",
-    "protocol": "socks4",
-    "ip": "64.227.131.240",
-    "port": 1080,
-    "https": false,
-    "anonymity": "transparent",
-    "score": 1,
-    "geolocation": {
-      "country": "IN",
-      "city": "Unknown"
-    }
-  },
-  {
     "proxy": "http://4.188.236.47:443",
     "protocol": "http",
     "ip": "4.188.236.47",
@@ -39,23 +26,10 @@
     }
   },
   {
-    "proxy": "http://165.225.120.33:10230",
+    "proxy": "http://165.231.253.242:9443",
     "protocol": "http",
-    "ip": "165.225.120.33",
-    "port": 10230,
-    "https": true,
-    "anonymity": "transparent",
-    "score": 1,
-    "geolocation": {
-      "country": "IN",
-      "city": "Unknown"
-    }
-  },
-  {
-    "proxy": "http://165.231.253.210:443",
-    "protocol": "http",
-    "ip": "165.231.253.210",
-    "port": 443,
+    "ip": "165.231.253.242",
+    "port": 9443,
     "https": true,
     "anonymity": "transparent",
     "score": 1,
@@ -78,49 +52,10 @@
     }
   },
   {
-    "proxy": "http://103.162.66.10:8080",
+    "proxy": "http://103.48.68.110:83",
     "protocol": "http",
-    "ip": "103.162.66.10",
-    "port": 8080,
-    "https": false,
-    "anonymity": "transparent",
-    "score": 1,
-    "geolocation": {
-      "country": "IN",
-      "city": "Unknown"
-    }
-  },
-  {
-    "proxy": "http://202.62.75.38:83",
-    "protocol": "http",
-    "ip": "202.62.75.38",
+    "ip": "103.48.68.110",
     "port": 83,
-    "https": false,
-    "anonymity": "transparent",
-    "score": 1,
-    "geolocation": {
-      "country": "IN",
-      "city": "Unknown"
-    }
-  },
-  {
-    "proxy": "http://117.247.233.62:8080",
-    "protocol": "http",
-    "ip": "117.247.233.62",
-    "port": 8080,
-    "https": false,
-    "anonymity": "transparent",
-    "score": 1,
-    "geolocation": {
-      "country": "IN",
-      "city": "Unknown"
-    }
-  },
-  {
-    "proxy": "http://103.41.33.169:58080",
-    "protocol": "http",
-    "ip": "103.41.33.169",
-    "port": 58080,
     "https": false,
     "anonymity": "transparent",
     "score": 1,
@@ -160,71 +95,6 @@
     "protocol": "http",
     "ip": "4.213.98.253",
     "port": 80,
-    "https": false,
-    "anonymity": "transparent",
-    "score": 1,
-    "geolocation": {
-      "country": "IN",
-      "city": "Unknown"
-    }
-  },
-  {
-    "proxy": "http://115.244.181.122:8080",
-    "protocol": "http",
-    "ip": "115.244.181.122",
-    "port": 8080,
-    "https": false,
-    "anonymity": "transparent",
-    "score": 1,
-    "geolocation": {
-      "country": "IN",
-      "city": "Unknown"
-    }
-  },
-  {
-    "proxy": "http://103.231.45.182:8080",
-    "protocol": "http",
-    "ip": "103.231.45.182",
-    "port": 8080,
-    "https": false,
-    "anonymity": "transparent",
-    "score": 1,
-    "geolocation": {
-      "country": "IN",
-      "city": "Unknown"
-    }
-  },
-  {
-    "proxy": "http://116.68.115.74:8080",
-    "protocol": "http",
-    "ip": "116.68.115.74",
-    "port": 8080,
-    "https": false,
-    "anonymity": "transparent",
-    "score": 1,
-    "geolocation": {
-      "country": "IN",
-      "city": "Unknown"
-    }
-  },
-  {
-    "proxy": "http://103.105.176.232:8080",
-    "protocol": "http",
-    "ip": "103.105.176.232",
-    "port": 8080,
-    "https": false,
-    "anonymity": "transparent",
-    "score": 1,
-    "geolocation": {
-      "country": "IN",
-      "city": "Unknown"
-    }
-  },
-  {
-    "proxy": "http://103.173.214.187:8080",
-    "protocol": "http",
-    "ip": "103.173.214.187",
-    "port": 8080,
     "https": false,
     "anonymity": "transparent",
     "score": 1,
