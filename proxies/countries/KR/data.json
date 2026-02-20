@@ -26,16 +26,16 @@
     }
   },
   {
-    "proxy": "http://183.109.79.187:80",
+    "proxy": "http://221.153.92.39:443",
     "protocol": "http",
-    "ip": "183.109.79.187",
-    "port": 80,
-    "https": false,
+    "ip": "221.153.92.39",
+    "port": 443,
+    "https": true,
     "anonymity": "transparent",
     "score": 1,
     "geolocation": {
       "country": "KR",
-      "city": "Yeongdeungpo-gu"
+      "city": "Unknown"
     }
   },
   {
@@ -104,36 +104,23 @@
     }
   },
   {
-    "proxy": "http://211.197.77.198:3024",
+    "proxy": "http://221.153.152.43:80",
     "protocol": "http",
-    "ip": "211.197.77.198",
-    "port": 3024,
+    "ip": "221.153.152.43",
+    "port": 80,
     "https": false,
     "anonymity": "transparent",
     "score": 1,
     "geolocation": {
       "country": "KR",
-      "city": "Unknown"
+      "city": "Suwon"
     }
   },
   {
-    "proxy": "http://121.177.104.201:3056",
+    "proxy": "http://221.153.92.39:80",
     "protocol": "http",
-    "ip": "121.177.104.201",
-    "port": 3056,
-    "https": false,
-    "anonymity": "transparent",
-    "score": 1,
-    "geolocation": {
-      "country": "KR",
-      "city": "Unknown"
-    }
-  },
-  {
-    "proxy": "http://175.215.60.150:3124",
-    "protocol": "http",
-    "ip": "175.215.60.150",
-    "port": 3124,
+    "ip": "221.153.92.39",
+    "port": 80,
     "https": false,
     "anonymity": "transparent",
     "score": 1,
@@ -156,6 +143,19 @@
     }
   },
   {
+    "proxy": "http://116.148.216.96:3129",
+    "protocol": "http",
+    "ip": "116.148.216.96",
+    "port": 3129,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "KR",
+      "city": "Unknown"
+    }
+  },
+  {
     "proxy": "http://35.216.50.194:3128",
     "protocol": "http",
     "ip": "35.216.50.194",
@@ -169,16 +169,16 @@
     }
   },
   {
-    "proxy": "http://221.153.152.43:80",
+    "proxy": "http://183.109.79.187:80",
     "protocol": "http",
-    "ip": "221.153.152.43",
+    "ip": "183.109.79.187",
     "port": 80,
     "https": false,
     "anonymity": "transparent",
     "score": 1,
     "geolocation": {
       "country": "KR",
-      "city": "Suwon"
+      "city": "Yeongdeungpo-gu"
     }
   }
 ]
