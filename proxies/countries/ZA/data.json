@@ -39,10 +39,36 @@
     }
   },
   {
-    "proxy": "http://160.119.58.4:8088",
+    "proxy": "http://41.57.6.30:6060",
     "protocol": "http",
-    "ip": "160.119.58.4",
-    "port": 8088,
+    "ip": "41.57.6.30",
+    "port": 6060,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "ZA",
+      "city": "Unknown"
+    }
+  },
+  {
+    "proxy": "http://102.212.45.34:12354",
+    "protocol": "http",
+    "ip": "102.212.45.34",
+    "port": 12354,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "ZA",
+      "city": "Unknown"
+    }
+  },
+  {
+    "proxy": "http://102.213.23.22:1452",
+    "protocol": "http",
+    "ip": "102.213.23.22",
+    "port": 1452,
     "https": false,
     "anonymity": "transparent",
     "score": 1,
