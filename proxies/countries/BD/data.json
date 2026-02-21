@@ -39,10 +39,23 @@
     }
   },
   {
-    "proxy": "http://103.245.110.198:1452",
+    "proxy": "http://202.5.33.33:1101",
     "protocol": "http",
-    "ip": "103.245.110.198",
-    "port": 1452,
+    "ip": "202.5.33.33",
+    "port": 1101,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "BD",
+      "city": "Unknown"
+    }
+  },
+  {
+    "proxy": "http://103.141.66.78:5555",
+    "protocol": "http",
+    "ip": "103.141.66.78",
+    "port": 5555,
     "https": false,
     "anonymity": "transparent",
     "score": 1,
