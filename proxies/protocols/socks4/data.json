@@ -169,19 +169,6 @@
     }
   },
   {
-    "proxy": "socks4://98.170.57.249:4145",
-    "protocol": "socks4",
-    "ip": "98.170.57.249",
-    "port": 4145,
-    "https": false,
-    "anonymity": "transparent",
-    "score": 1,
-    "geolocation": {
-      "country": "ZZ",
-      "city": "Unknown"
-    }
-  },
-  {
     "proxy": "socks4://184.185.2.12:4145",
     "protocol": "socks4",
     "ip": "184.185.2.12",
@@ -312,19 +299,6 @@
     }
   },
   {
-    "proxy": "socks4://192.252.214.17:4145",
-    "protocol": "socks4",
-    "ip": "192.252.214.17",
-    "port": 4145,
-    "https": false,
-    "anonymity": "transparent",
-    "score": 1,
-    "geolocation": {
-      "country": "US",
-      "city": ""
-    }
-  },
-  {
     "proxy": "socks4://64.227.131.240:1080",
     "protocol": "socks4",
     "ip": "64.227.131.240",
@@ -426,45 +400,6 @@
     "geolocation": {
       "country": "US",
       "city": "Tempe"
-    }
-  },
-  {
-    "proxy": "socks4://213.231.7.10:3629",
-    "protocol": "socks4",
-    "ip": "213.231.7.10",
-    "port": 3629,
-    "https": false,
-    "anonymity": "transparent",
-    "score": 1,
-    "geolocation": {
-      "country": "UA",
-      "city": "Unknown"
-    }
-  },
-  {
-    "proxy": "socks4://125.228.143.207:4145",
-    "protocol": "socks4",
-    "ip": "125.228.143.207",
-    "port": 4145,
-    "https": false,
-    "anonymity": "transparent",
-    "score": 1,
-    "geolocation": {
-      "country": "TW",
-      "city": "New Taipei City"
-    }
-  },
-  {
-    "proxy": "socks4://217.144.187.125:443",
-    "protocol": "socks4",
-    "ip": "217.144.187.125",
-    "port": 443,
-    "https": false,
-    "anonymity": "transparent",
-    "score": 1,
-    "geolocation": {
-      "country": "DE",
-      "city": "Unknown"
     }
   },
   {
@@ -705,6 +640,19 @@
     "proxy": "socks4://184.181.178.33:4145",
     "protocol": "socks4",
     "ip": "184.181.178.33",
+    "port": 4145,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "US",
+      "city": ""
+    }
+  },
+  {
+    "proxy": "socks4://192.252.214.17:4145",
+    "protocol": "socks4",
+    "ip": "192.252.214.17",
     "port": 4145,
     "https": false,
     "anonymity": "transparent",
@@ -1235,6 +1183,19 @@
     }
   },
   {
+    "proxy": "socks4://125.228.143.207:4145",
+    "protocol": "socks4",
+    "ip": "125.228.143.207",
+    "port": 4145,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "TW",
+      "city": "New Taipei City"
+    }
+  },
+  {
     "proxy": "socks4://125.228.94.153:4145",
     "protocol": "socks4",
     "ip": "125.228.94.153",
@@ -1726,6 +1687,19 @@
     "geolocation": {
       "country": "US",
       "city": "Los Angeles"
+    }
+  },
+  {
+    "proxy": "socks4://98.170.57.249:4145",
+    "protocol": "socks4",
+    "ip": "98.170.57.249",
+    "port": 4145,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "ZZ",
+      "city": "Unknown"
     }
   },
   {
