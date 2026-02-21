@@ -312,6 +312,19 @@
     }
   },
   {
+    "proxy": "socks4://103.102.141.40:4145",
+    "protocol": "socks4",
+    "ip": "103.102.141.40",
+    "port": 4145,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "ZZ",
+      "city": "Unknown"
+    }
+  },
+  {
     "proxy": "socks4://72.195.101.99:4145",
     "protocol": "socks4",
     "ip": "72.195.101.99",
@@ -5061,19 +5074,6 @@
     "protocol": "socks4",
     "ip": "103.97.94.22",
     "port": 4153,
-    "https": false,
-    "anonymity": "transparent",
-    "score": 1,
-    "geolocation": {
-      "country": "ZZ",
-      "city": "Unknown"
-    }
-  },
-  {
-    "proxy": "socks4://103.102.141.40:4145",
-    "protocol": "socks4",
-    "ip": "103.102.141.40",
-    "port": 4145,
     "https": false,
     "anonymity": "transparent",
     "score": 1,
